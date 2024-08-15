@@ -73,7 +73,7 @@ Sebelum menjalankan sistem, pastikan Anda memiliki perangkat lunak dan pustaka b
 - `requirements.txt`: Daftar dependensi Python yang diperlukan.
 - `README.md`: Berkas ini berisi dokumentasi dan petunjuk penggunaan.
 - `toll_gate.mp4`: Berkas video input.
-- `output_toll_gat.mp4e`: Berkas video output.
+- `output_toll_gate.mp4`: Berkas video output.
 
 ## Informasi Tambahan
 - **Model YOLOv8**: Menggunakan model YOLOv8 untuk deteksi kendaraan. Pastikan model yang Anda unduh sesuai dengan versi yang digunakan.
