@@ -11,6 +11,8 @@
 ## Deskripsi
 Sistem ini adalah proyek dari **AI Engineer Intern Knowledge Test**. Sistem ini mendeteksi dan menghitung kendaraan dalam video menggunakan model YOLOv8. Sistem ini dapat mendeteksi dan melabeli kendaraan seperti mobil dan bus, serta memberikan ID unik untuk setiap kendaraan yang terdeteksi.
 
+Proyek ini merupakan bagian dari tes masuk untuk magang di bidang AI di **Widya Robotics**, sebuah perusahaan yang bergerak di bidang AI, IoT, dan Cyber Security.
+
 Kode ini dibuat berdasarkan berbagai referensi dari AI GPT, GitHub, dan sumber lainnya. Harap dicatat bahwa saya masih pemula dalam pengembangan sistem ini, sehingga beberapa aspek dari implementasi mungkin belum sepenuhnya optimal.
 
 ## Hasil & Problem
