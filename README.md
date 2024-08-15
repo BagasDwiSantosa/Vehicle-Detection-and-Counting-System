@@ -2,8 +2,11 @@
 
 ## Diri Saya
 **Nama**: Bagas Dwi Santosa
+
 **Email**: bagasdwisantosa87@gmail.com
+
 **Asal Universitas**: Universitas Jenderal Achmad Yani Yogyakarta
+
 
 ## Deskripsi
 Sistem ini adalah proyek dari **AI Engineer Intern Knowledge Test**. Sistem ini mendeteksi dan menghitung kendaraan dalam video menggunakan model YOLOv8. Sistem ini dapat mendeteksi dan melabeli kendaraan seperti mobil dan bus, serta memberikan ID unik untuk setiap kendaraan yang terdeteksi.
